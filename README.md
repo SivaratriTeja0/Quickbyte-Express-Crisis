@@ -39,6 +39,21 @@ The objective was to identify root causes of decline and propose a structured re
 
 ---
 
+## 📊 Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Dashboards_Screenshots/Executive_Summary.png)
+
+### Order & Revenue Analysis
+![Orders & Revenue](Dashboards_Screenshots/Orders&revenue.png)
+
+### Customer Segmentation
+![Customer Segmentation](Dashboards_Screenshots/Customer_Segmentation.png)
+
+### Insights & Recommendations
+![Insights](Dashboards_Screenshots/Insights&Recommendations.png)
+
+
 ## 🔗 Live Interactive Dashboard
 
 👉 [View Power BI Report Here](https://tinyurl.com/3aks4cn4)
