@@ -98,6 +98,11 @@ Certain restaurants experienced near-total decline (Urban Wraps Hub -100%).
 
 ---
 
+## 🔗 Live Interactive Dashboard
+
+👉 [View Power BI Report Here](https://tinyurl.com/3aks4cn4)
+
+---
 ## 🛠 Tools & Skills Demonstrated
 
 **Tools Used**
